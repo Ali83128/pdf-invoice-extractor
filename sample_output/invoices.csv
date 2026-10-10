@@ -1,0 +1,13 @@
+source_file,layout,invoice_number,vendor,invoice_date,currency,subtotal,tax,total,line_count,status
+01_northwind.pdf,northwind,NW-2026-2322,Northwind Office Supply Co.,2026-03-06,USD,2915.61,240.54,3156.15,5,OK
+02_brightwater.pdf,brightwater,BW/26/0366,Brightwater Logistics GmbH,2026-06-01,EUR,399.84,75.97,475.81,3,OK
+03_kestrel.pdf,kestrel,KS-1468,Kestrel Studio Ltd,2026-07-16,GBP,1006.69,201.34,1208.03,2,OK
+04_northwind.pdf,northwind,NW-2026-2907,Northwind Office Supply Co.,2026-06-12,USD,2909.81,240.06,3149.87,3,OK
+05_brightwater.pdf,brightwater,BW/26/0545,Brightwater Logistics GmbH,2026-09-21,EUR,173.08,32.89,205.97,5,OK
+06_kestrel.pdf,kestrel,KS-1315,Kestrel Studio Ltd,2026-02-26,GBP,12383.80,2476.76,14860.56,5,OK
+07_northwind.pdf,northwind,NW-2026-8645,Northwind Office Supply Co.,2026-09-18,USD,2840.60,234.35,3074.95,6,OK
+08_brightwater.pdf,brightwater,BW/26/0755,Brightwater Logistics GmbH,2026-08-15,EUR,586.02,111.34,697.36,5,OK
+09_kestrel.pdf,kestrel,KS-1594,Kestrel Studio Ltd,2026-02-06,GBP,1583.32,316.66,1899.98,4,OK
+10_northwind.pdf,northwind,NW-2026-6135,Northwind Office Supply Co.,2026-02-16,USD,1506.70,124.30,1631.00,4,OK
+11_brightwater.pdf,brightwater,BW/26/0409,Brightwater Logistics GmbH,2026-03-15,EUR,191.14,36.32,227.46,5,OK
+12_kestrel.pdf,kestrel,KS-1361,Kestrel Studio Ltd,2026-09-28,GBP,970.81,267.93,1607.56,3,NEEDS REVIEW

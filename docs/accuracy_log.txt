@@ -1,0 +1,15 @@
+01_northwind.pdf       all fields match
+02_brightwater.pdf     all fields match
+03_kestrel.pdf         all fields match
+04_northwind.pdf       all fields match
+05_brightwater.pdf     all fields match
+06_kestrel.pdf         all fields match
+07_northwind.pdf       all fields match
+08_brightwater.pdf     all fields match
+09_kestrel.pdf         all fields match
+10_northwind.pdf       all fields match
+11_brightwater.pdf     all fields match
+12_kestrel.pdf         all fields match  [flagged for review, as expected]
+
+field accuracy: 96/96 (100.0%)
+review flag correct on 12/12 files

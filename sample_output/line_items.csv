@@ -1,0 +1,51 @@
+source_file,invoice_number,currency,description,quantity,unit_price,amount
+01_northwind.pdf,NW-2026-2322,USD,Sticky notes 76x76 (pack of 24),10,16.69,166.90
+01_northwind.pdf,NW-2026-2322,USD,LED desk lamp,7,53.45,374.15
+01_northwind.pdf,NW-2026-2322,USD,Black toner cartridge HL-2350,9,84.92,764.28
+01_northwind.pdf,NW-2026-2322,USD,"Document shredder, cross-cut",8,192.26,1538.08
+01_northwind.pdf,NW-2026-2322,USD,"Desk organiser, bamboo",4,18.05,72.20
+02_brightwater.pdf,BW/26/0366,EUR,Labelling service per carton,8,2.73,21.84
+02_brightwater.pdf,BW/26/0366,EUR,Pallet storage (per week),6,10.15,60.90
+02_brightwater.pdf,BW/26/0366,EUR,Customs documentation,7,45.30,317.10
+03_kestrel.pdf,KS-1468,GBP,Photo retouching per image,9,19.01,171.09
+03_kestrel.pdf,KS-1468,GBP,Logo design concepts,5,167.12,835.60
+04_northwind.pdf,NW-2026-2907,USD,USB-C docking station,7,102.42,716.94
+04_northwind.pdf,NW-2026-2907,USD,LED desk lamp,7,53.99,377.93
+04_northwind.pdf,NW-2026-2907,USD,"Document shredder, cross-cut",9,201.66,1814.94
+05_brightwater.pdf,BW/26/0545,EUR,Labelling service per carton,10,2.22,22.20
+05_brightwater.pdf,BW/26/0545,EUR,Express courier DE domestic,9,14.30,128.70
+05_brightwater.pdf,BW/26/0545,EUR,Stretch wrapping per pallet,1,5.94,5.94
+05_brightwater.pdf,BW/26/0545,EUR,Pick and pack per order,4,2.66,10.64
+05_brightwater.pdf,BW/26/0545,EUR,Returns processing per item,1,5.60,5.60
+06_kestrel.pdf,KS-1315,GBP,Revision round,11,63.70,700.70
+06_kestrel.pdf,KS-1315,GBP,Brand style guide,8,607.62,4860.96
+06_kestrel.pdf,KS-1315,GBP,Website hero illustration,12,358.79,4305.48
+06_kestrel.pdf,KS-1315,GBP,Packaging mockup,5,181.71,908.55
+06_kestrel.pdf,KS-1315,GBP,Logo design concepts,7,229.73,1608.11
+07_northwind.pdf,NW-2026-8645,USD,"Stapler, heavy duty",1,25.06,25.06
+07_northwind.pdf,NW-2026-8645,USD,LED desk lamp,11,54.46,599.06
+07_northwind.pdf,NW-2026-8645,USD,"Whiteboard markers, assorted (pack of 12)",8,14.35,114.80
+07_northwind.pdf,NW-2026-8645,USD,Ergonomic mesh office chair,8,198.97,1591.76
+07_northwind.pdf,NW-2026-8645,USD,Sticky notes 76x76 (pack of 24),4,13.66,54.64
+07_northwind.pdf,NW-2026-8645,USD,"A4 copy paper, 80gsm (box of 5 reams)",12,37.94,455.28
+08_brightwater.pdf,BW/26/0755,EUR,Pallet storage (per week),2,12.48,24.96
+08_brightwater.pdf,BW/26/0755,EUR,Returns processing per item,12,5.66,67.92
+08_brightwater.pdf,BW/26/0755,EUR,Pick and pack per order,9,3.32,29.88
+08_brightwater.pdf,BW/26/0755,EUR,Customs documentation,8,42.49,339.92
+08_brightwater.pdf,BW/26/0755,EUR,Express courier DE domestic,7,17.62,123.34
+09_kestrel.pdf,KS-1594,GBP,Revision round,12,51.84,622.08
+09_kestrel.pdf,KS-1594,GBP,Social media templates,3,76.81,230.43
+09_kestrel.pdf,KS-1594,GBP,Logo design concepts,1,135.10,135.10
+09_kestrel.pdf,KS-1594,GBP,Brand style guide,1,595.71,595.71
+10_northwind.pdf,NW-2026-6135,USD,"Whiteboard markers, assorted (pack of 12)",9,11.74,105.66
+10_northwind.pdf,NW-2026-6135,USD,Black toner cartridge HL-2350,11,86.03,946.33
+10_northwind.pdf,NW-2026-6135,USD,"A4 copy paper, 80gsm (box of 5 reams)",11,35.31,388.41
+10_northwind.pdf,NW-2026-6135,USD,"Stapler, heavy duty",3,22.10,66.30
+11_brightwater.pdf,BW/26/0409,EUR,Express courier DE domestic,2,13.27,26.54
+11_brightwater.pdf,BW/26/0409,EUR,Labelling service per carton,11,1.40,15.40
+11_brightwater.pdf,BW/26/0409,EUR,Stretch wrapping per pallet,3,7.00,21.00
+11_brightwater.pdf,BW/26/0409,EUR,Inbound handling per pallet,10,9.13,91.30
+11_brightwater.pdf,BW/26/0409,EUR,Pick and pack per order,9,4.10,36.90
+12_kestrel.pdf,KS-1361,GBP,Packaging mockup,7,102.03,714.21
+12_kestrel.pdf,KS-1361,GBP,Logo design concepts,1,256.60,256.60
+12_kestrel.pdf,KS-1361,GBP,Revision round,6,61.47,368.82

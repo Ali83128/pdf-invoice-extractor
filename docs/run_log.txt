@@ -1,0 +1,18 @@
+07:02:12 INFO  ok     01_northwind.pdf       northwind   NW-2026-2322   USD 3156.15
+07:02:12 INFO  ok     02_brightwater.pdf     brightwater BW/26/0366     EUR 475.81
+07:02:12 INFO  ok     03_kestrel.pdf         kestrel     KS-1468        GBP 1208.03
+07:02:12 INFO  ok     04_northwind.pdf       northwind   NW-2026-2907   USD 3149.87
+07:02:12 INFO  ok     05_brightwater.pdf     brightwater BW/26/0545     EUR 205.97
+07:02:12 INFO  ok     06_kestrel.pdf         kestrel     KS-1315        GBP 14860.56
+07:02:12 INFO  ok     07_northwind.pdf       northwind   NW-2026-8645   USD 3074.95
+07:02:12 INFO  ok     08_brightwater.pdf     brightwater BW/26/0755     EUR 697.36
+07:02:12 INFO  ok     09_kestrel.pdf         kestrel     KS-1594        GBP 1899.98
+07:02:12 INFO  ok     10_northwind.pdf       northwind   NW-2026-6135   USD 1631.00
+07:02:12 INFO  ok     11_brightwater.pdf     brightwater BW/26/0409     EUR 227.46
+07:02:12 INFO  REVIEW 12_kestrel.pdf         kestrel     KS-1361        GBP 1607.56
+07:02:12 WARNING        line items sum to 1339.63 but subtotal says 970.81
+07:02:12 WARNING        subtotal + tax = 1238.74 but total says 1607.56
+07:02:12 INFO  wrote sample_output/invoices.xlsx
+07:02:12 INFO  wrote sample_output/invoices.csv and sample_output/line_items.csv
+07:02:12 INFO  wrote sample_output/invoices.json
+07:02:12 INFO  done   12 files, 11 ok, 1 need review, 50 line items, 0.1s

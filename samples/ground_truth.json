@@ -1,0 +1,446 @@
+{
+  "01_northwind.pdf": {
+    "invoice_number": "NW-2026-2322",
+    "vendor": "Northwind Office Supply Co.",
+    "invoice_date": "2026-03-06",
+    "currency": "USD",
+    "subtotal": "2915.61",
+    "tax": "240.54",
+    "total": "3156.15",
+    "line_items": [
+      {
+        "description": "Sticky notes 76x76 (pack of 24)",
+        "quantity": 10,
+        "unit_price": "16.69",
+        "amount": "166.90"
+      },
+      {
+        "description": "LED desk lamp",
+        "quantity": 7,
+        "unit_price": "53.45",
+        "amount": "374.15"
+      },
+      {
+        "description": "Black toner cartridge HL-2350",
+        "quantity": 9,
+        "unit_price": "84.92",
+        "amount": "764.28"
+      },
+      {
+        "description": "Document shredder, cross-cut",
+        "quantity": 8,
+        "unit_price": "192.26",
+        "amount": "1538.08"
+      },
+      {
+        "description": "Desk organiser, bamboo",
+        "quantity": 4,
+        "unit_price": "18.05",
+        "amount": "72.20"
+      }
+    ],
+    "expected_review": false
+  },
+  "02_brightwater.pdf": {
+    "invoice_number": "BW/26/0366",
+    "vendor": "Brightwater Logistics GmbH",
+    "invoice_date": "2026-06-01",
+    "currency": "EUR",
+    "subtotal": "399.84",
+    "tax": "75.97",
+    "total": "475.81",
+    "line_items": [
+      {
+        "description": "Labelling service per carton",
+        "quantity": 8,
+        "unit_price": "2.73",
+        "amount": "21.84"
+      },
+      {
+        "description": "Pallet storage (per week)",
+        "quantity": 6,
+        "unit_price": "10.15",
+        "amount": "60.90"
+      },
+      {
+        "description": "Customs documentation",
+        "quantity": 7,
+        "unit_price": "45.30",
+        "amount": "317.10"
+      }
+    ],
+    "expected_review": false
+  },
+  "03_kestrel.pdf": {
+    "invoice_number": "KS-1468",
+    "vendor": "Kestrel Studio Ltd",
+    "invoice_date": "2026-07-16",
+    "currency": "GBP",
+    "subtotal": "1006.69",
+    "tax": "201.34",
+    "total": "1208.03",
+    "line_items": [
+      {
+        "description": "Photo retouching per image",
+        "quantity": 9,
+        "unit_price": "19.01",
+        "amount": "171.09"
+      },
+      {
+        "description": "Logo design concepts",
+        "quantity": 5,
+        "unit_price": "167.12",
+        "amount": "835.60"
+      }
+    ],
+    "expected_review": false
+  },
+  "04_northwind.pdf": {
+    "invoice_number": "NW-2026-2907",
+    "vendor": "Northwind Office Supply Co.",
+    "invoice_date": "2026-06-12",
+    "currency": "USD",
+    "subtotal": "2909.81",
+    "tax": "240.06",
+    "total": "3149.87",
+    "line_items": [
+      {
+        "description": "USB-C docking station",
+        "quantity": 7,
+        "unit_price": "102.42",
+        "amount": "716.94"
+      },
+      {
+        "description": "LED desk lamp",
+        "quantity": 7,
+        "unit_price": "53.99",
+        "amount": "377.93"
+      },
+      {
+        "description": "Document shredder, cross-cut",
+        "quantity": 9,
+        "unit_price": "201.66",
+        "amount": "1814.94"
+      }
+    ],
+    "expected_review": false
+  },
+  "05_brightwater.pdf": {
+    "invoice_number": "BW/26/0545",
+    "vendor": "Brightwater Logistics GmbH",
+    "invoice_date": "2026-09-21",
+    "currency": "EUR",
+    "subtotal": "173.08",
+    "tax": "32.89",
+    "total": "205.97",
+    "line_items": [
+      {
+        "description": "Labelling service per carton",
+        "quantity": 10,
+        "unit_price": "2.22",
+        "amount": "22.20"
+      },
+      {
+        "description": "Express courier DE domestic",
+        "quantity": 9,
+        "unit_price": "14.30",
+        "amount": "128.70"
+      },
+      {
+        "description": "Stretch wrapping per pallet",
+        "quantity": 1,
+        "unit_price": "5.94",
+        "amount": "5.94"
+      },
+      {
+        "description": "Pick and pack per order",
+        "quantity": 4,
+        "unit_price": "2.66",
+        "amount": "10.64"
+      },
+      {
+        "description": "Returns processing per item",
+        "quantity": 1,
+        "unit_price": "5.60",
+        "amount": "5.60"
+      }
+    ],
+    "expected_review": false
+  },
+  "06_kestrel.pdf": {
+    "invoice_number": "KS-1315",
+    "vendor": "Kestrel Studio Ltd",
+    "invoice_date": "2026-02-26",
+    "currency": "GBP",
+    "subtotal": "12383.80",
+    "tax": "2476.76",
+    "total": "14860.56",
+    "line_items": [
+      {
+        "description": "Revision round",
+        "quantity": 11,
+        "unit_price": "63.70",
+        "amount": "700.70"
+      },
+      {
+        "description": "Brand style guide",
+        "quantity": 8,
+        "unit_price": "607.62",
+        "amount": "4860.96"
+      },
+      {
+        "description": "Website hero illustration",
+        "quantity": 12,
+        "unit_price": "358.79",
+        "amount": "4305.48"
+      },
+      {
+        "description": "Packaging mockup",
+        "quantity": 5,
+        "unit_price": "181.71",
+        "amount": "908.55"
+      },
+      {
+        "description": "Logo design concepts",
+        "quantity": 7,
+        "unit_price": "229.73",
+        "amount": "1608.11"
+      }
+    ],
+    "expected_review": false
+  },
+  "07_northwind.pdf": {
+    "invoice_number": "NW-2026-8645",
+    "vendor": "Northwind Office Supply Co.",
+    "invoice_date": "2026-09-18",
+    "currency": "USD",
+    "subtotal": "2840.60",
+    "tax": "234.35",
+    "total": "3074.95",
+    "line_items": [
+      {
+        "description": "Stapler, heavy duty",
+        "quantity": 1,
+        "unit_price": "25.06",
+        "amount": "25.06"
+      },
+      {
+        "description": "LED desk lamp",
+        "quantity": 11,
+        "unit_price": "54.46",
+        "amount": "599.06"
+      },
+      {
+        "description": "Whiteboard markers, assorted (pack of 12)",
+        "quantity": 8,
+        "unit_price": "14.35",
+        "amount": "114.80"
+      },
+      {
+        "description": "Ergonomic mesh office chair",
+        "quantity": 8,
+        "unit_price": "198.97",
+        "amount": "1591.76"
+      },
+      {
+        "description": "Sticky notes 76x76 (pack of 24)",
+        "quantity": 4,
+        "unit_price": "13.66",
+        "amount": "54.64"
+      },
+      {
+        "description": "A4 copy paper, 80gsm (box of 5 reams)",
+        "quantity": 12,
+        "unit_price": "37.94",
+        "amount": "455.28"
+      }
+    ],
+    "expected_review": false
+  },
+  "08_brightwater.pdf": {
+    "invoice_number": "BW/26/0755",
+    "vendor": "Brightwater Logistics GmbH",
+    "invoice_date": "2026-08-15",
+    "currency": "EUR",
+    "subtotal": "586.02",
+    "tax": "111.34",
+    "total": "697.36",
+    "line_items": [
+      {
+        "description": "Pallet storage (per week)",
+        "quantity": 2,
+        "unit_price": "12.48",
+        "amount": "24.96"
+      },
+      {
+        "description": "Returns processing per item",
+        "quantity": 12,
+        "unit_price": "5.66",
+        "amount": "67.92"
+      },
+      {
+        "description": "Pick and pack per order",
+        "quantity": 9,
+        "unit_price": "3.32",
+        "amount": "29.88"
+      },
+      {
+        "description": "Customs documentation",
+        "quantity": 8,
+        "unit_price": "42.49",
+        "amount": "339.92"
+      },
+      {
+        "description": "Express courier DE domestic",
+        "quantity": 7,
+        "unit_price": "17.62",
+        "amount": "123.34"
+      }
+    ],
+    "expected_review": false
+  },
+  "09_kestrel.pdf": {
+    "invoice_number": "KS-1594",
+    "vendor": "Kestrel Studio Ltd",
+    "invoice_date": "2026-02-06",
+    "currency": "GBP",
+    "subtotal": "1583.32",
+    "tax": "316.66",
+    "total": "1899.98",
+    "line_items": [
+      {
+        "description": "Revision round",
+        "quantity": 12,
+        "unit_price": "51.84",
+        "amount": "622.08"
+      },
+      {
+        "description": "Social media templates",
+        "quantity": 3,
+        "unit_price": "76.81",
+        "amount": "230.43"
+      },
+      {
+        "description": "Logo design concepts",
+        "quantity": 1,
+        "unit_price": "135.10",
+        "amount": "135.10"
+      },
+      {
+        "description": "Brand style guide",
+        "quantity": 1,
+        "unit_price": "595.71",
+        "amount": "595.71"
+      }
+    ],
+    "expected_review": false
+  },
+  "10_northwind.pdf": {
+    "invoice_number": "NW-2026-6135",
+    "vendor": "Northwind Office Supply Co.",
+    "invoice_date": "2026-02-16",
+    "currency": "USD",
+    "subtotal": "1506.70",
+    "tax": "124.30",
+    "total": "1631.00",
+    "line_items": [
+      {
+        "description": "Whiteboard markers, assorted (pack of 12)",
+        "quantity": 9,
+        "unit_price": "11.74",
+        "amount": "105.66"
+      },
+      {
+        "description": "Black toner cartridge HL-2350",
+        "quantity": 11,
+        "unit_price": "86.03",
+        "amount": "946.33"
+      },
+      {
+        "description": "A4 copy paper, 80gsm (box of 5 reams)",
+        "quantity": 11,
+        "unit_price": "35.31",
+        "amount": "388.41"
+      },
+      {
+        "description": "Stapler, heavy duty",
+        "quantity": 3,
+        "unit_price": "22.10",
+        "amount": "66.30"
+      }
+    ],
+    "expected_review": false
+  },
+  "11_brightwater.pdf": {
+    "invoice_number": "BW/26/0409",
+    "vendor": "Brightwater Logistics GmbH",
+    "invoice_date": "2026-03-15",
+    "currency": "EUR",
+    "subtotal": "191.14",
+    "tax": "36.32",
+    "total": "227.46",
+    "line_items": [
+      {
+        "description": "Express courier DE domestic",
+        "quantity": 2,
+        "unit_price": "13.27",
+        "amount": "26.54"
+      },
+      {
+        "description": "Labelling service per carton",
+        "quantity": 11,
+        "unit_price": "1.40",
+        "amount": "15.40"
+      },
+      {
+        "description": "Stretch wrapping per pallet",
+        "quantity": 3,
+        "unit_price": "7.00",
+        "amount": "21.00"
+      },
+      {
+        "description": "Inbound handling per pallet",
+        "quantity": 10,
+        "unit_price": "9.13",
+        "amount": "91.30"
+      },
+      {
+        "description": "Pick and pack per order",
+        "quantity": 9,
+        "unit_price": "4.10",
+        "amount": "36.90"
+      }
+    ],
+    "expected_review": false
+  },
+  "12_kestrel.pdf": {
+    "invoice_number": "KS-1361",
+    "vendor": "Kestrel Studio Ltd",
+    "invoice_date": "2026-09-28",
+    "currency": "GBP",
+    "subtotal": "970.81",
+    "tax": "267.93",
+    "total": "1607.56",
+    "line_items": [
+      {
+        "description": "Packaging mockup",
+        "quantity": 7,
+        "unit_price": "102.03",
+        "amount": "714.21"
+      },
+      {
+        "description": "Logo design concepts",
+        "quantity": 1,
+        "unit_price": "256.60",
+        "amount": "256.60"
+      },
+      {
+        "description": "Revision round",
+        "quantity": 6,
+        "unit_price": "61.47",
+        "amount": "368.82"
+      }
+    ],
+    "expected_review": true
+  }
+}
